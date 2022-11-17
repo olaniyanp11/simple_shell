@@ -14,3 +14,8 @@ There are 2 types of shell in linux; The BOURNE shell, The C shell.
 
 
 SHELL SCRIPTING: is an open source computer program designed to be run by the Unix/Linux shell. it is a program to write a seies of commands for the shell to execute. 
+
+
+Basic Shell Scripting commands: cat, more, less, head, tail, mkdir, cp, mv, rm, touch, grep, sort, wc, cut and more.
+
+Shell Variables are used to store information and they can be shell only.
