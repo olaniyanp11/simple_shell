@@ -11,3 +11,6 @@ save the script file as filename.sh
 For executing the script type bash filename.sh
 
 There are 2 types of shell in linux; The BOURNE shell, The C shell.
+
+
+SHELL SCRIPTING: is an open source computer program designed to be run by the Unix/Linux shell. it is a program to write a seies of commands for the shell to execute. 
